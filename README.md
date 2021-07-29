@@ -20,6 +20,7 @@ The project consists of the development of the world-famous Tetris game. The gam
 > Game intelligence:<br>
   ✅ Piece colision<br>
   ✅ Wall colision<br>
+  ❌ Speed acceleration according game time duration 
   ✅ Full line<br>
   ✅ Scoreboard refresh<br>
   ✅ End game detection<br>
