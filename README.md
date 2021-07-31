@@ -70,7 +70,7 @@ VALUES
 ```
 
 **Connection string info:**<br>
-This example I am using defaul user: User: sa | Password: (no password) as we can see in the following String Connection:<br>
+This example I am using defaul user: User: sa | Password: (no password) as we can see in the following String Connection:<br><br>
 Tetris>Entities>DataBase>Connection<br><br>
 ```ruby
 public Connection()
